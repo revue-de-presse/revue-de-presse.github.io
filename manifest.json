@@ -1,0 +1,37 @@
+{
+  "name": "Revue de Presse 2025",
+  "short_name": "Revue Presse",
+  "description": "Visualisation des tendances médiatiques françaises sur Bluesky en 2025",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#006663",
+  "orientation": "any",
+  "scope": "./",
+  "lang": "fr",
+  "icons": [
+    {
+      "src": "https://avatars.githubusercontent.com/u/6276394?s=192",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/6276394?s=512",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["news", "education"],
+  "screenshots": [],
+  "shortcuts": [
+    {
+      "name": "Lancer l'animation",
+      "short_name": "Lancer",
+      "description": "Démarrer la visualisation animée",
+      "url": "./index.html",
+      "icons": [{ "src": "https://avatars.githubusercontent.com/u/6276394?s=96", "sizes": "96x96" }]
+    }
+  ]
+}

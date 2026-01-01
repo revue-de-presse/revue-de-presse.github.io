@@ -1,0 +1,3 @@
+[submodule "org.revue-de-presse"]
+	path = org.revue-de-presse
+	url = git@github.com:revuedepresse/org.revue-de-presse.git
